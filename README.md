@@ -1,2 +1,2 @@
-# Advance-Java-Practicle
-Advance Java Practicle
+# Advance-Java-Practical
+Advance Java Practical
