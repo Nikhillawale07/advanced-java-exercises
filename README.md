@@ -1,2 +1,1 @@
-# Advance-Java-Practical
-Advance Java Practical
+# Advanced-java-exercises
